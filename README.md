@@ -15,8 +15,13 @@ Here's what we used to build the MK1.
 - 1 x [Raspberry Pi 3 B](https://www.amazon.com/Raspberry-Pi-RASPBERRYPI3-MODB-1GB-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_3?s=electronics&ie=UTF8&qid=1523895859&sr=1-3&keywords=raspberry+pi+3);
 - 1 x [micro-SD Card](https://www.amazon.com/16GB-Sandisk-microSD-Memory-Adapter/dp/B00FZVQPBC/ref=sr_1_6?s=pc&ie=UTF8&qid=1523895964&sr=1-6&keywords=sd+card&refinements=p_n_feature_two_browse-bin%3A6518303011) (We used a 16GB card)
 - 1 x [HDMI to Mini-HDMI Cable](https://www.amazon.com/dp/B014I8UAPE/ref=twister_B0199TGZFQ?_encoding=UTF8&psc=1) (to connect the Pi to the Projector)
+- 1 x [Battery Strap](https://hobbyking.com/en_us/scorpion-lipoly-lock-strap-205mm-small-x-3.html)
+- 1 x [Power Breakout Cable](https://hobbyking.com/en_us/hxt-4mm-to-4-x-3-5mm-bullet-multistar-esc-power-breakout-cable.html)
 - 1 x [External Battery w/ Cable](https://www.amazon.com/dp/B01CU1EC6Y/) (Although we used this to power the Pi in our original design, `we'd recommend using a power distribution board and running everything off of the main LiPo battery` instead to simplify to a central power source. See the optional parts section for recommendations.)
-
+- 1 x [4-Piece Propeller Set](https://hobbyking.com/en_us/hobbykingtm-slowfly-propeller-9x4-7-black-ccw-4pcs.html)
+- 1 x [Digital Servo](https://hobbyking.com/en_us/bms-385dmax-digital-servo-metal-gear-4-2kg-15sec-16-5g.html)
+- 3 x [DT750 Brushless Motors](https://hobbyking.com/en_us/hextronik-dt750-brushless-outrunner-750kv.html)
+- 3 x [F20A Motor Controllers](https://hobbyking.com/en_us/hobby-king-20a-esc-3a-ubec.html)
 ### Optional Parts
 Since the original build, we've made some optional adjustments to the designs to experiment and address issues we've found. The following are optional parts that should still fit well into the MK1 build. We'll list the differences between the substitute part and the original. *Note: These parts are merely recommendations, and may not have been tested on an actual build*
 
